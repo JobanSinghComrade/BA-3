@@ -1,4 +1,4 @@
-<iframe width="70%"  style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/IkPvTUh9BQM?si=BeT5wsw2bl71x5l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%"  style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/IkPvTUh9BQM?si=BeT5wsw2bl71x5l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Imagism is a movement in early 20th-century poetry that focuses on clarity, precision, and strong visual imagery. It began around 1912 and was led by poets like Ezra Pound, who believed that poetry should present clear, sharp images rather than vague ideas or elaborate language. The movement rejected traditional poetic styles and focused on direct expression.
 
