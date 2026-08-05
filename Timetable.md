@@ -1,6 +1,6 @@
 
 | Time          | Subject          | Days | Class Teacher  | Room No |
-| :-----------: | :--------------: | :--: | :------------: | :-----: |
+| ------------- | ---------------- | ---- | -------------- | ------- |
 | 09:00 - 09:40 | C.S (Practical)  | 5    | Surjeet Kumar  | C. Lab  |
 | 09:00 - 09:40 | C.S (Practical)  | 6    | Sukhdeep Singh | C. Lab  |
 | 09:40 - 10:20 | C.S (Practical)  | 5,6  | Surjeet Kumar  | C. Lab  |
