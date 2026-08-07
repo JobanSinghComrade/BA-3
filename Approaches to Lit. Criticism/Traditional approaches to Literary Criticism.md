@@ -1,8 +1,5 @@
-
 <iframe width="710" height="315" src="https://www.youtube.com/embed/tQ5hvNLKxPg?si=Jv7lr5pwuZgEK27i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-TYPES:
-   
+#### Types:
 # Historical:
  
 Many critics have examined literary work through a historical lens. **_History of English Literature_** is one of the many landmark works by the French critic and historian Hippolyte Taine. First published in French in the 1860s, it became one of the most influential works of literary criticism in the 19th century. It centers around a historical approach to the framework of literary criticism.
@@ -10,6 +7,7 @@ Many critics have examined literary work through a historical lens. **_History o
 ## Main Idea
 
 Taine argued that literature is **not created in isolation**. Instead, it is shaped by three major forces:
+
 #### 1. Race 
 
 According to Hippolyte Taine, **Race** refers to the inherited cultural, historical, and psychological characteristics shared by a people over generations. It does **not** mean biological race in the modern sense but the collective traditions, customs, beliefs, language, and temperament that shape a nation's identity. These inherited qualities influence a writer's imagination, values, themes, and style, making literature a reflection of the enduring character and cultural heritage of a society.
