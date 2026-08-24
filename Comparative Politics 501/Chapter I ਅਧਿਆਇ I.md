@@ -1,6 +1,7 @@
 
 ---
 
+# Political Sociology - Systems Theory, Structural Functionalism/ਰਾਜਨੀਤਕ ਸਮਾਜ ਸ਼ਾਸਤਰ - ਸਿਸਟਮ ਪਹੁੰਚ, ਢਾਂਚਾਗਤ ਕਾਰਜਵਾਦ
 ## Systems Approach
 
 Systems Approach in Political Science
