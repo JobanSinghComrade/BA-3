@@ -5,6 +5,7 @@
 3. [[#2. Room Area Demo|Room Area Demo]]
 4. [[#3. Room Area from Input|Room Area from Input]]
 5. [[#4. User Input|User Input]]
+6. [[#5. Constructors|Constructors]]
 
 ---
 
@@ -154,4 +155,58 @@ class UserInputDemo {
 ```
 
 ---
+## 5. Constructors
 
+- Default Constructor
+
+```java
+public class DefaultConst{
+
+    String name, className;
+
+    // Default Contructure (Empty brackets - no parameters)
+    public DefaultConst(){
+        name = "Unknown Student";
+        className = "No Assigned";
+        System.out.println("--> Default Constructor was executed automatically!");
+    }
+
+    public static void main(String[] args){
+
+        // Calling the contructor using new
+        DefaultConst student1 = new DefaultConst();
+
+        // Printing the values
+        System.out.println("Name: " + student1.name);
+        System.out.println("Class: " + student1.className);
+    }
+}
+```
+
+- Parameterized Constructor
+
+```java
+public class ParamConst{
+
+    String name, className;
+
+    // Contructure (must have same name as the class)
+    public ParamConst(String studentName, String studentClass){
+        name = studentName;
+        className = studentClass;
+        System.out.println("--> Constructor was executed automatically!");
+    }
+
+    public static void main(String[] args){
+    
+        // Calling the contructor using new
+        ParamConst student1 = new ParamConst("James", "BCA");
+
+        // Printing the values
+        System.out.println("Name: " + student1.name);
+        System.out.println("Class: " + student1.className);
+    }
+}
+```
+
+---
