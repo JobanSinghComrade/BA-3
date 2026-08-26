@@ -6,6 +6,7 @@
 4. [[#3. Room Area from Input|Room Area from Input]]
 5. [[#4. User Input|User Input]]
 6. [[#5. Constructors|Constructors]]
+7. [[#6. Static vs Instance|Static vs Instance]]
 
 ---
 
@@ -210,3 +211,32 @@ public class ParamConst{
 ```
 
 ---
+## 6. Static vs Instance 
+
+```java
+class Counter {
+
+    static int staticCount = 0;   // shared by ALL objects
+    int instanceCount = 0;        // separate for EACH object
+
+    public void increment() {
+        staticCount++;
+        instanceCount++;
+        System.out.println("Static = " + 
+        staticCount + " | Instance = " + instanceCount);
+    }
+}
+
+public class StaticVsInstance {
+
+    public static void main(String[] args) {
+        Counter c1 = new Counter();
+        Counter c2 = new Counter();
+
+        c1.increment(); // Static = 1 | Instance = 1
+        c1.increment(); // Static = 2 | Instance = 2
+        c2.increment(); // Static = 3 | Instance = 1  <-- notice this!
+        c2.increment(); // Static = 4 | Instance = 2
+    }
+}
+```
