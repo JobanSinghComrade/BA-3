@@ -150,4 +150,12 @@ nothing = None
 print("Value:", nothing)
 print("Type:", type(nothing))
 print("Represents 'no value' or empty.")
+
+print()
+
+print("===== 11. Range (range) =====")
+roll_no = range(1, 10)
+print("Value", list(roll_no))
+print("Type", type(roll_no))
+print("Collection of numbers in between.")
 ```
