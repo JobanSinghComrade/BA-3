@@ -1,6 +1,6 @@
 ## *The Holy Panchayat* by Munshi Premachand
 
-Chapter PDF file -> [The Holy Panchayat](https://drive.google.com/file/d/1A6cQf2AY7_IVRS4Levpn5n4lf9YM08CY/view?usp=drive_link)
+Chapter PDF file -> [The Holy Panchayat](https://drive.google.com/file/d/1A6cQf2AY7_IVRS4Levpn5n4lf9YM08CY/view?usp=sharing)
 
 <iframe width="100%"  style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/Au6jL0qyFsE?si=_ALg0IIzCsLzlREL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
