@@ -1,5 +1,7 @@
 ## *The Holy Panchayat* by Munshi Premachand
 
+Chapter PDF file -> [The Holy Panchayat](https://drive.google.com/file/d/1A6cQf2AY7_IVRS4Levpn5n4lf9YM08CY/view?usp=drive_link)
+
 <iframe width="100%"  style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/Au6jL0qyFsE?si=_ALg0IIzCsLzlREL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Munshi Premchand’s “The Holy Panchayat” (Panch Parmeshwar) is a story about friendship, justice, moral responsibility, and the power of the village panchayat. It explores how the responsibility of delivering justice can overcome personal loyalties and prejudices.

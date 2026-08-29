@@ -1,5 +1,7 @@
 ### **Summary: _Toba Tek Singh_ by Saadat Hassan Manto**
 
+Chapter PDF file -> [Toba Tek Singh](https://drive.google.com/file/d/1S5vLRRNf5kWId4ucY7vqXVMHJWqLZios/view?usp=drive_link)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wLfwvQc8R-A?si=A-XsEX4dx8mzbAm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 A couple of years after the Partition of India, the governments of India and Pakistan decide that lunatic asylum inmates, like prisoners, should also be exchanged along religious lines — Muslim lunatics from India sent to Pakistan, and Hindu and Sikh lunatics from Pakistan sent to India. The story unfolds mainly in the Lahore asylum, where news of this decision causes confusion and absurd debate among the inmates, most of whom have no real grasp of what Partition means or where the new borders lie.
