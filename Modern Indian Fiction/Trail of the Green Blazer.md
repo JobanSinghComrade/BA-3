@@ -1,1 +1,1 @@
-Chapter PDF file -> [Trail of the Green Blazer](https://drive.google.com/file/d/1F2tVsBIGBzwGfGBgKXFPkASy7ZBwF18L/view?usp=drive_link)
+Chapter PDF file -> [Trail of the Green Blazer](https://drive.google.com/file/d/1ASiDkk8nTO3KEiXk10eJlj1AWsx_TaNL/view?usp=drive_link)

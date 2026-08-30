@@ -1,6 +1,6 @@
 ### **Summary: _Toba Tek Singh_ by Saadat Hassan Manto**
 
-Chapter PDF file -> [Toba Tek Singh](https://drive.google.com/file/d/1S5vLRRNf5kWId4ucY7vqXVMHJWqLZios/view?usp=drive_link)
+Chapter PDF file -> [Toba Tek Singh](https://drive.google.com/file/d/1r_7AnwPLqXU5YRfHq6YjbpIiXY36VJca/view?usp=drive_link)
 
 <iframe width="100%" style="aspect-ratio:16/9;"  src="https://www.youtube.com/embed/wLfwvQc8R-A?si=A-XsEX4dx8mzbAm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
