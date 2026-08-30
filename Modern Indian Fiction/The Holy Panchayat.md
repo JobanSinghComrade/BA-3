@@ -14,7 +14,7 @@ Later, Algu himself becomes involved in a dispute. He sells a bullock to Samjhu 
 
 At first, Algu fears that Jumman will seek revenge. However, once Jumman assumes the sacred responsibility of Panch, his personal feelings disappear. He delivers a fair judgment in Algu’s favour. Jumman realizes that the same moral force that transformed him as a judge had also transformed Algu earlier.
 
-The story concludes with the two friends reconciling. Premchand’s central message is that the office of the Panch awakens a person’s conscience: when entrusted with justice, an individual rises above friendship, enmity, caste, and self-interest. Thus, the Panch becomes “God” in the moral sense because justice demands impartiality.
+The story concludes with the two friends reuniting. Premchand’s central message is that the office of the Panch awakens a person’s conscience/inner moral compass: when entrusted with justice, an individual rises above friendship, enmity, caste, religion, and self-interest. Thus, the Panch becomes “God” in the moral sense because justice demands impartiality.
 
 ---
 
