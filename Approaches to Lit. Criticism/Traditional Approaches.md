@@ -15,6 +15,24 @@ The historical approach applies the three forces of Taine to _Hamlet_ (English P
 
 Critics have noted that Taine's approach to criticism is too deterministic, overgeneralizes human nature and gives little importance to individual creativity. Nonetheless, the three forces set the conditions for writing — the raw material available — but don't fully determine individual work; genius is what a writer does with those conditions beyond what they alone could produce (for e.g., Shakespeare vs. less popular Elizabethan dramatists).
 
+---
+
+# Biographical Approach
+
+Biographical criticism starts from a simple premise: writers are human beings shaped by their relationships, obsessions, and experiences, and these inevitably leave traces in their work. What separates this method from mere gossip is discipline—the critic must trace specific, demonstrable links between particular biographical facts and particular features of a text, rather than just noting interesting life details in passing.
+
+The approach carries an inherent risk, however. Because literary imagination reshapes lived experience so thoroughly, the connections a critic draws can sometimes reveal more about their own interpretive creativity than about the author's actual intent. The strongest biographical criticism therefore treats life as something that illuminates a text without replacing the need to read the text itself.
+
+The essay develops this through four examples. Keats's "Ode to a Nightingale" gains new weight when read against his experience nursing his brother Tom through fatal tuberculosis while recognizing the same symptoms emerging in his own body—phrases about fever and weariness read as clinical description rather than romantic convention, and his famous half-wish for death reflects a longing for release from suffering he had already witnessed up close, not death itself.
+
+Charlotte Brontë's _Jane Eyre_ draws on her unrequited attachment to her married Brussels professor, Constantin Heger, though the novel doesn't simply transcribe that relationship—Rochester isn't Heger, and Thornfield isn't Brussels. Instead, biography helps explain emotional textures in the novel, such as Jane's intense self-denial and the story's insistence on economic equality between lovers, that might otherwise seem excessive.
+
+Sylvia Plath's _The Bell Jar_ is nearly autobiographical in its events—an internship, a breakdown, a suicide attempt, hospitalization—closely mirroring her own documented experience, to the point that she first published it under a pseudonym. Yet the novel's achievement lies partly in its ironic narrative distance between the experiencing character and the narrating voice, a formal quality that biography alone can't account for.
+
+Kamala Das's English poetry is offered as an especially direct case, since Das herself linked her life to her writing in her autobiography _My Story_. Her poems draw on her arranged teenage marriage and emotional isolation, transforming personal pain into broader statements about women's condition, with imagery of confinement rooted in her specific cultural and geographic background.
+
+The essay then confronts the major theoretical objection to this method: Wimsatt and Beardsley's "Intentional Fallacy," which holds that an author's life and intentions are irrelevant to interpreting a text, since the work must stand on its own formal terms. The essay concedes real force to this argument—a poem can move readers regardless of its author's character, and formal elements are what ultimately create meaning. But it resists abandoning biographical criticism entirely, proposing instead that biography and formal analysis are complementary: biography shows what a writer brought to their work, while formal analysis shows what they made of it. Used this way, biographical context deepens interpretation without substituting for the text's own artistic achievement.
+
 
 
 
