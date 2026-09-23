@@ -32,6 +32,36 @@ Next, there is a big argument against this method. It is called the "Intentional
 
 Biographical criticism is not a rigid benchmark of critiquing. Instead, it says both methods work together. Biography shows what the writer brought to the work. Formal analysis shows what the writer built from it. Together, they help us understand a text more deeply, without replacing the art of the text itself.
 
+---
+
+# **Moral-Philosophical Approach**
+
+
+The big question -- people have asked an old question for a very long time: is literature good or bad for us? Do stories make us better people, or do they cause harm? The moral-philosophical approach studies what stories do to the people who read them.
+
+**Plato: poetry is redundant or useless**. Plato was a Greek thinker. He said the soul has three parts. The first part is reason, which looks for the truth. The second part is spirit, which wants honour and courage. The third part is desire, which wants pleasure. Reason should lead the other two. Plato said poetry speaks to our feelings, not to our reason. When we watch a sad play, we practise giving in to our feelings. Then, in real life, we give in to them more easily. Plato loved poetry, but he was afraid of its power.
+
+**Aristotle says, "tragedy helps us". Aristotle disagreed with Plato. He said that tragedy is, rather, good for us. He used the word "catharsis," which means cleaning up or purging of. Some people think a tragedy removes too much pity and fear, so we feel calm. Other people think it helps us understand these feelings better. Both ideas agree on one thing: tragedy makes us kinder and wiser, not worse.
+
+**Bharata: an Indian idea**
+
+In India, thinkers talked about "rasa." *Rasa* means "juice" or "taste." It is the special feeling that art gives to the audience. Bharata named eight rasas, such as love, humour, pity, anger, and fear. Later, Abhinavagupta added a ninth one: peace. Like Aristotle, rasa theory says strong feelings, even sad ones, do not harm us. When we feel pity in a play, we feel a wide, deep kind of pity, not only for one person.
+
+**Matthew Arnold: Literature as a guide 
+
+Matthew Arnold lived in the 1800s. Many people were losing their religious faith. Arnold said literature could give people moral strength and deep feeling instead. He created the "touchstone method." A critic compares a text with great lines from writers like Homer, Dante, Shakespeare, and Milton. If the text feels as strong, it has "high seriousness." This means the writer takes life's big problems seriously: pain, choice, love, loss, and death. Some people criticise the method because all the examples come from Europe. Still, it shows an important idea: we judge writing by comparing.
+
+**Three examples**
+
+In _Hamlet_, the prince must punish a murderer, but he has no proof. The play asks why knowing what is right is not the same as doing it. Claudius also knows he did wrong, but he cannot give up his crown.
+
+In Premchand's story "Kafan," a father and son spend the money for a dead woman's shroud (the cloth for a dead body) on food and alcohol. We may want to blame them. But the story shows that terrible poverty can destroy a person's moral life.
+
+In Arundhati Roy's _The God of Small Things_, "love laws" decide who should be and should not be loved. These rules destroy lives. So the novel asks: can a rule be moral if it kills people?
+
+**The limits of this approach**
+
+This approach is useful, but it has limits. It finds the ethical questions in a text, but it does not explain how the writer builds the story. For that, we need other tools, like formal analysis. The best criticism uses many approaches together.
 
 
 
