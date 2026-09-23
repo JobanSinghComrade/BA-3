@@ -47,7 +47,7 @@ The big question -- people have asked an old question for a very long time: is l
 
 In India, thinkers talked about "rasa." *Rasa* means "juice" or "taste." It is the special feeling that art gives to the audience. Bharata named eight rasas, such as love, humour, pity, anger, and fear. Later, Abhinavagupta added a ninth one: peace. Like Aristotle, rasa theory says strong feelings, even sad ones, do not harm us. When we feel pity in a play, we feel a wide, deep kind of pity, not only for one person.
 
-**Matthew Arnold: Literature as a guide 
+**Matthew Arnold: Literature as a guide**
 
 Matthew Arnold lived in the 1800s. Many people were losing their religious faith. Arnold said literature could give people moral strength and deep feeling instead. He created the "touchstone method." A critic compares a text with great lines from writers like Homer, Dante, Shakespeare, and Milton. If the text feels as strong, it has "high seriousness." This means the writer takes life's big problems seriously: pain, choice, love, loss, and death. Some people criticise the method because all the examples come from Europe. Still, it shows an important idea: we judge writing by comparing.
 
