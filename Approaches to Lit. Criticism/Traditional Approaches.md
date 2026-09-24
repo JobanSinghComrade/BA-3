@@ -2,7 +2,7 @@
 
 
 #### Types:
-# Historical approach:
+# **Historical approach:**
 
 Historical approach to literary criticism studies a literary work in relation to the historical period, social conditions, political events, cultural values, and the intellectual climate it was produced during. Every literary work reflects the historical context, author's background, customs, traditions religion, literary traditions, and economic conditions. However, it should not be reduced to a only historical document. Rather, it is a creative expression shaped by its surrounding conditions. Hippolyte Taine (1828–1893), the scientific spirit of Darwin's era, was a French critic and historian who tried to look towards making literary criticism as solid as the natural sciences. He felt existing criticism was not as clear and that it either praised or negatively criticized works without explaining _why_ particular literature emerged in particular times and places. His answer was a theory of three forces acting all at the same time on every writer during any given period:
 
@@ -17,7 +17,7 @@ Critics have noted that Taine's approach to criticism is too deterministic, over
 
 ---
 
-# Biographical Approach
+# **Biographical Approach**
 
 
 Biographical criticism is a way to study books and literary work. The idea is simple: writers are people. They have feelings. They have relationships. They have hard experiences in life. These things go into their writing. We can see small parts of a writer's life inside their books.
@@ -39,7 +39,7 @@ Biographical criticism is not a rigid benchmark of critiquing. Instead, it says 
 
 The big question -- people have asked an old question for a very long time: is literature good or bad for us? Do stories make us better people, or do they cause harm? The moral-philosophical approach studies what stories do to the people who read them.
 
-**Plato: poetry is redundant or useless**. Plato was a Greek thinker. He said the soul has three parts. The first part is reason, which looks for the truth. The second part is spirit, which wants honour and courage. The third part is desire, which wants pleasure. Reason should lead the other two. Plato said poetry speaks to our feelings, not to our reason. When we watch a sad play, we practise giving in to our feelings. Then, in real life, we give in to them more easily. Plato loved poetry, but he was afraid of its power.
+**Plato: Poetry is redundant or useless**. Plato was a Greek thinker. He said the soul has three parts. The first part is reason, which looks for the truth. The second part is spirit, which wants honour and courage. The third part is desire, which wants pleasure. Reason should lead the other two. Plato said poetry speaks to our feelings, not to our reason. When we watch a sad play, we practise giving in to our feelings. Then, in real life, we give in to them more easily. Plato loved poetry, but he was afraid of its power.
 
 **Aristotle** says, "tragedy helps us". Aristotle disagreed with Plato. He said that tragedy is, rather, good for us. He used the word "catharsis," which means cleaning up or purging of. Some people think a tragedy removes too much pity and fear, so we feel calm. Other people think it helps us understand these feelings better. Both ideas agree on one thing: tragedy makes us kinder and wiser, not worse.
 
