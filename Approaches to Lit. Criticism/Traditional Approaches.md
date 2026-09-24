@@ -41,7 +41,7 @@ The big question -- people have asked an old question for a very long time: is l
 
 **Plato: poetry is redundant or useless**. Plato was a Greek thinker. He said the soul has three parts. The first part is reason, which looks for the truth. The second part is spirit, which wants honour and courage. The third part is desire, which wants pleasure. Reason should lead the other two. Plato said poetry speaks to our feelings, not to our reason. When we watch a sad play, we practise giving in to our feelings. Then, in real life, we give in to them more easily. Plato loved poetry, but he was afraid of its power.
 
-**Aristotle says, "tragedy helps us". Aristotle disagreed with Plato. He said that tragedy is, rather, good for us. He used the word "catharsis," which means cleaning up or purging of. Some people think a tragedy removes too much pity and fear, so we feel calm. Other people think it helps us understand these feelings better. Both ideas agree on one thing: tragedy makes us kinder and wiser, not worse.
+**Aristotle** says, "tragedy helps us". Aristotle disagreed with Plato. He said that tragedy is, rather, good for us. He used the word "catharsis," which means cleaning up or purging of. Some people think a tragedy removes too much pity and fear, so we feel calm. Other people think it helps us understand these feelings better. Both ideas agree on one thing: tragedy makes us kinder and wiser, not worse.
 
 **Bharata: an Indian idea**
 
