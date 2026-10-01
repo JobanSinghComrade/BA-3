@@ -1,1 +1,0 @@
-<iframe width="100%" style="aspect-ratio:16/9;" src="https://www.youtube.com/embed/afrV-L_IOLI?si=S3Om5WV7jmSpoOSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
