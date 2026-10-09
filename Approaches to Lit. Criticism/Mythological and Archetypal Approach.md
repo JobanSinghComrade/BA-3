@@ -9,7 +9,7 @@ These cultures did not copy each other, so there must be a deeper reason for the
 
 But all stories are not the same. The Ramayana and the Odyssey share one pattern, yet they are different. Each culture's special details make the story great art.
 
-# Jung and Frye's explanations of the Myth and the Archetypes 
+# Jung and Frye's explanations of the Myth and the Archetype
 
 *Jung* and *Frye* ask different questions about archetypes.
 
@@ -32,6 +32,6 @@ A good, simple way to understand how archetypal criticism works is to see meanin
 
 *Level 2 — The Myth:* The myth is the cultural level -- a ground where an archetypal pattern finds itself embodying a specific cultural form while having the same core of archetypal traits. A great example is the myth of The Forbidden Knowledge Seeker - Odin from Norse mythology who endures a sacrifice to obtain knowledge from the runes, Prometheus obtaining the Divine Fire in Greek mythology, Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions, Icarus who pursues flight beyond the limits imposed by his circumstances, etc. all fit the same pattern and have the same underlying psychoanalytical tone.  
 
-*Level 3 — The Literary Work:* This is the framework that exists on an artistical level and may or may not embody both the mythological and archetypal pattern. A famous example of this is The Dark Knight, a novel by Dennis O'Neil based on the movie The Dark Knight, where the main character, Bruce Wayne, imitates the self-sacrificial ethos of Jesus Christ at the end when he takes the blame for Harvey Dent's crimes so that Gotham could sustain its hope of, someday, seeing a crime-free Gotham. Taking a fall for Dent's crimes is akin to dying for the sins of others.   
+*Level 3 — The Literary Work:* This is the framework that exists on an artistical level and may or may not embody both the mythological and archetypal pattern. A famous example of this is The Dark Knight, a novel by Dennis O'Neil based on the movie The Dark Knight, where the main character, Bruce Wayne, imitates the self-sacrificial ethos of Jesus Christ at the end when he takes the blame for district attorney Harvey Dent's crimes so that Gotham could sustain a false hope of, someday, seeing a crime-free Gotham. Taking a fall for Dent's crimes is akin to dying for the sins of others.   
 
 Great literature works at all three levels together. This is why it feels local and universal: it grows in one culture but speaks to many cultures and times. The archetype gives it depth; the myth gives it cultural meaning; the literary work gives both their clearest and lasting artistic form.
