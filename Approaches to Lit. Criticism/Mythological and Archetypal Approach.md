@@ -7,7 +7,7 @@ An archetype is an original pattern. It appears in many cultures and times. Exam
 
 These cultures did not copy each other, so there must be a deeper reason for the patterns.
 
-But all stories are not the same. The Ramayana and the Odyssey share one pattern, yet they are different. Each culture's special details make the story great art.
+But all stories are not the same. The Matrix by Wachaoskis and the story of Jesus Christ share the same archetypal pattern, yet they are completely different from each other. Each culture's special details make the story great art.
 
 # Jung and Frye's explanations of the Myth and the Archetype
 
@@ -28,10 +28,32 @@ Both answers are useful and can be held subjectively truthful, simultaneously or
 
 A good, simple way to understand how archetypal criticism works is to see meaning as having three connected levels, going from the biggest and most general idea of all to the smallest and most exact one.
 
-*Level 1 — The Archetype:* An archetype is a pattern of experience repeating itself in human consciousness over and over again, not tied to any specific cultural, geographical and historical period. The collective human experience is tied to it because of similar biological and existential conditions. Universal experiences like birth and death, love and loss, childhood trauma and its healing, spiritual transformation and ego death give birth to archetypes that repeat across all human stories ubiquitously.
+*Level 1 — The Archetype:* An archetype is a pattern of experience repeating itself in the cobweb human consciousness over and over again, not tied to any specific cultural, geographical and historical period. The collective human experience is tied to it because of similar biological and existential conditions. Universal experiences like birth and death, love and loss, childhood trauma and its healing, spiritual transformation and ego death give birth to archetypes that repeat across all human stories ubiquitously.
 
 *Level 2 — The Myth:* The myth is the cultural level -- a ground where an archetypal pattern finds itself embodying a specific cultural form while having the same core of archetypal traits. A great example is the myth of The Forbidden Knowledge Seeker - Odin from Norse mythology who endures a sacrifice to obtain knowledge from the runes, Prometheus obtaining the Divine Fire in Greek mythology, Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions, Icarus who pursues flight beyond the limits imposed by his circumstances, etc. all fit the same pattern and have the same underlying psychoanalytical tone.  
 
 *Level 3 — The Literary Work:* This is the framework that exists on an artistical level and may or may not embody both the mythological and archetypal pattern. A famous example of this is The Dark Knight, a novel by Dennis O'Neil based on the movie The Dark Knight, where the main character, Bruce Wayne, imitates the self-sacrificial ethos of Jesus Christ at the end when he takes the blame for district attorney Harvey Dent's crimes so that Gotham could sustain a false hope of, someday, seeing a crime-free Gotham. Taking a fall for Dent's crimes is akin to dying for the sins of others.   
 
 Great literature works at all three levels together. This is why it feels local and universal: it grows in one culture but speaks to many cultures and times. The archetype gives it depth; the myth gives it cultural meaning; the literary work gives both their clearest and lasting artistic form.
+
+# Some of the famous Jungian archetypes 
+
+## *The Persona*
+
+This archetype, similar to Freudian concept of the ego, is the social mask of one's construct that they maintain to showcase to the world to dignify the society's requirements of social sophistication. Jung says that without the *persona*, existing in a community would be next to impossible and that the danger also comes from identifying with the social mask so much that an individual also loses touch with their authentic inner self. A good example of this is Bruce Wayne from The Dark Knight whose social mask is his public name Bruce Wayne, the billionaire orphan, but his true self is the Batman, a masked vigilante that was born the day he witnessed his parents dying at the hands of a criminal as an 8-year-old. 
+
+## *The Shadow*
+
+*The Shadow* is the part of your personality that you refuse to acknowledge, suppress, or fail to recognize as belonging to you. According to Swiss psychologist Carl Jung, the Shadow contains aspects of ourselves that our conscious identity—the person we believe ourselves to be—does not accept. It can contain anger, jealousy, selfishness, fear, and desires we consider unacceptable. However, it can also contain positive qualities we have suppressed, such as ambition, confidence, assertiveness, creativity, and the desire for independence.
+
+# *The Hero and his journey*
+
+This archetype encompasses almost every story across all cultural literature and media. The *Hero* is the main character, usually the chosen one, who is prompted to leave a familiar territory because a certain situation forces him to leave that would eventually cause him to go certain trials and tribulations, discover his true identity and find the ultimate transformation. Modern examples of archetypes include Harry Potter, Peter Parker, Bruce Wayne, Mowgli, Goku, Ash Ketchum, Steve Rogers as Captain America, and so on.
+
+## *The Wise Old Man/The Mentor*
+
+This archetype is always the one who represents knowledge, spiritual guidance, and experience and a figure as an inner guide who appears when a hero needs insight beyond their own capability; they rarely fight the final battle themselves; instead, they equip, train, or prompt the hero to grow. Examples include Gandalf from Lord Of The Rings, Albus Dumbledore from Harry Potter, Jedi and Obi-Wan Kenobi from Star Wars, Merlin from the Arthurian legend, Rafiki from The Lion King, the Kung Fu teacher from The Karate Kid, and Bagheera from The Jungle Book. 
+
+## *Other archetypes*
+
+*Anima and Animus* is the archetype that represent polar opposites and their union like Yin and Yang, Shiva and Shakti, the concept of Miri and Piri, etc. *The Great Mother* archetype embodies the selfless mother's archetype that represents nourishment, nurturing, protection and fertility like Parvati, Mother Mary/Mariam, Isis, etc. *The Forbidden Knowledge Seeker* include examples like Odin from Norse mythology who endures a sacrifice to obtain knowledge from the runes, Prometheus obtaining the Divine Fire in Greek mythology, Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions, Icarus who pursues flight beyond the limits imposed by his circumstances, etc. 
