@@ -62,3 +62,9 @@ This archetype is always the one who represents knowledge, spiritual guidance, a
 ## *Other archetypes*
 
 *Anima and Animus* are the archetypes that represent polar opposites and their union, like Yin and Yang, Shiva and Shakti, the concept of Miri and Piri, etc. *The Great Mother* archetype embodies the selfless mother archetype that represents nourishment, nurturing, protection and fertility, like Parvati, Mother Mary/Mariam, Isis, etc. The *Forbidden Knowledge Seeker* archetype includes examples like Odin from Norse mythology, who endures a sacrifice to obtain knowledge from the runes; Prometheus obtaining the Divine Fire in Greek mythology; Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions; Icarus who pursues flight beyond the limits imposed by his circumstances, etc.
+
+# Frye's claim
+
+Frye wrote an essay in 1951 called "The Archetypes of Literature" which was a catalyst of an entire work of literary criticism called the Anatomy of Criticism(1957). Frye, comparing literature with the disciplined structuralism of biology in natural sciences, believed that literature needed the same disciplined structuralism. His proposal was that the concepts of myth and archetype could provide this framework.
+
+One of Frye’s most distinctive claims was that literature was its on *self-contained verbal universe* — a entity with its on laws, a construct of human imagination with its own internal logic, recurring structures, and so on. The claims almost personifies literature positioning Frye between Formalist critics and Historical critics. According to him, where archetypal criticism differentiated was that, instead of focusing on individual texts, it focused on the entire literary traditions and patterns governed by a broader picture instead.
