@@ -69,6 +69,26 @@ Frye wrote an essay in 1951 called “The Archetypes of Literature,” which was
 
 One of Frye’s most distinctive claims was that literature was its own *self-contained verbal universe* — an entity with its own laws, a construct of human imagination with its own internal logic, recurring structures, and so on. The claims almost personify literature, positioning Frye between Formalist critics and Historical critics. According to him, what differentiated archetypal criticism was that, instead of focusing on individual texts, it focused on the entire literary traditions and patterns governed by a broader picture.
 
+## The 4 Mythos 
+
+Mythoi, as Frye liked to call it, is a famous identification of four fundamental patterns that correspond to the four seasons of the natural year, each associated with certain narrative features, archetypal characteristics or emotions.
+
+## *Comedy: The Mythos of Spring*
+
+Spring is considered the season of renewal and rejuvenation; a season of novelty after a period of darkness, disorder, disharmony, restriction, disarray, confusion, and defeat of oppression. Comedy is the narrative that enacts this pattern, representing harmony, gleefulness and freedom. In Western and Indian literature, the comic mythos equally finds rich expression. 
+
+## *Romance: The Mythos of Summer* 
+
+Summer is considered the season of energy, abundance and vitality; a season representative of a series of trials against formidable opponents and forces of evil which results in an imminent victory. With the antagonist defeated and the kingdom restored, the quest is achieved. Romance is the theme of this season that represents conflict or struggle; the common trope of this narrative is virtue being rewarded and evil being punished, enacting the fantasy of heroic possibility. Arthurian legends like King Arthur are one example of this. Harry Potter and Batman are another set of examples. Tolkien’s Lord Of The Rings is the most sublime example of this mythos.
+
+## *Tragedy: The Mythos of Autumn*
+
+Autumn is the season of decline; light shortening, decreasing temperature and approaching winter. Tragedy is the narrative mode of this season that narrates movement from greatness and victory to crisis and loss. The narrative ends in the tragic death of the protagonist. Bruce Wayne, or Batman, embodies a psychological autumn: a man trapped in grief, alienation, and the ruins of his past. His tragedy lies in allowing pain to become his identity. His gradual movement toward hope suggests that autumn need not lead to permanent winter.
+
+## *Irony and Satire: The Mythos of Winter* 
+
+Winter is the season of darkness, cold and inevitable death - the season in which life withdraws. In its narrative mode, heroism is impossible, benevolent action is thwarted, exposing the structures of the comic and the romantic as illusions. In literature, Saadat Hasan Manto’s stories about the partition of Punjab operate within the winter mythos. In pop culture, the movie The Dark Cauldron also operates within the winter mythos because of its dark ambience and representation of destructive power. Where the ironic element occurs when the protagonist Taran dreams of becoming a great hero, has to initially endure being an inexperienced assistant pig-keeper. Its satirical element is when the antagonist, the Horned King’s desire for wanton power and destruction are not achieved and this can be read as criticism of tyrannical rulers in the read world.
+
 ## Archetypal approach in Indian scriptures
 
 Archetypal criticism applies beyond Western literature; Indian traditions show the same patterns, shaped by rasa, dharma and karma. The Ramayana is a romance (exile, allies, trials, victory restoring order), but Rama’s dharmic burden, especially his treatment of Sita and Shambuka in the Uttara Kanda, adds tragic weight. The Mahabharata is chiefly a tragedy centred on the Kurukshetra war, yet it also includes comic, romantic, and ironic elements, engaging all of Frye’s mythoi. The Bhagavad Gita moves past Arjuna’s tragic paralysis through nishkama karma (action without attachment to results), which has no exact Western equivalent. Bhakti poetry, including Radha-Krishna verse and Mirabai’s bhajans, expresses divine love as unending “productive longing” rather than Western-style union. Tagore’s *Gitanjali* reaches global audiences by tapping an archetype beneath cultural differences.
