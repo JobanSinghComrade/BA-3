@@ -37,7 +37,7 @@ A good, simple way to understand how archetypal criticism works is to see meanin
 
 ### Level 3
 
-The Literary Work:* This is the framework that exists on an artistic level and may or may not embody both the mythological and archetypal pattern. A famous example of this is The Dark Knight, a novel by Dennis O’Neil based on the movie The Dark Knight, where the main character, Bruce Wayne, imitates the self-sacrificial ethos of Jesus Christ at the end when he takes the blame for district attorney Harvey Dent’s crimes so that Gotham could sustain a false hope of, someday, seeing a crime-free Gotham. Taking a fall for Dent’s crimes is akin to dying for the sins of others.
+*The Literary Work:* This is the framework that exists on an artistic level and may or may not embody both the mythological and archetypal pattern. A famous example of this is The Dark Knight, a novel by Dennis O’Neil based on the movie The Dark Knight, where the main character, Bruce Wayne, imitates the self-sacrificial ethos of Jesus Christ at the end when he takes the blame for district attorney Harvey Dent’s crimes so that Gotham could sustain a false hope of, someday, seeing a crime-free Gotham. Taking a fall for Dent’s crimes is akin to dying for the sins of others.
 
 Great literature works at all three levels together. This is why it feels local and universal: it grows in one culture but speaks to many cultures and times. The archetype gives it depth; the myth gives it cultural meaning; the literary work gives both their clearest and lasting artistic form.
 
