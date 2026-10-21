@@ -1,4 +1,4 @@
-### List of Practical's: 
+### List of Practicals: 
 
 1. Program to print a simple message. 
 2. Program to show the use of tokens (identifiers, keywords, literals). 
