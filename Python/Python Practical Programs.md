@@ -1,4 +1,5 @@
-### List of Practical's: 
+### List of Practicals: 
+
 1. Program to print a message. 
 2. Program to take name, age, and marks as input and display them. 
 3. Program to check the data type of variables using type(). 
