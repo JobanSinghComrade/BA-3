@@ -8,6 +8,8 @@ These cultures did not copy each other, so there must be a deeper reason for the
 
 But not all stories are the same. The Matrix by Wachaoskis and the story of Jesus Christ share the same archetypal pattern, yet they are completely different from each other. Each culture’s special details make the story great art.
 
+---
+
 # Jung and Frye’s explanations of the Myth and the Archetype
 
 *Jung* and *Frye* ask different questions about archetypes.
@@ -21,19 +23,27 @@ So, the two men do not disagree. *Jung* looks at the mind as the source of arche
 
 Both answers are useful and can be held subjectively truthful, simultaneously or individually. Each one explains a different part of the same idea.
 
+---
+
 # The Three Levels of Archetypal critiquing framework
 
 *The Three Levels: Archetype, Myth, Literary Work*
 
 A good, simple way to understand how archetypal criticism works is to see meaning as having three connected levels, going from the biggest and most general idea of all to the smallest and most exact one.
 
+---
+
 ### Level 1
 
 *The Archetype:* An archetype is a pattern of experience repeating itself in the cobweb human consciousness over and over again, not tied to any specific cultural, geographical and historical period. The collective human experience is tied to it because of similar biological and existential conditions. Universal experiences like birth and death, love and loss, childhood trauma and its healing, spiritual transformation and ego death give birth to archetypes that repeat across all human stories ubiquitously.
 
+---
+
 ### Level 2
 
 *The Myth:* The myth is the cultural level – a ground where an archetypal pattern finds itself embodying a specific cultural form while having the same core of archetypal traits. A great example is the myth of the Forbidden Knowledge Seeker - Odin from Norse mythology, who endures a sacrifice to obtain knowledge from the runes; Prometheus obtaining the Divine Fire in Greek mythology; Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions; Icarus, who pursues flight beyond the limits imposed by his circumstances, etc. All fit the same pattern and have the same underlying psychoanalytical tone.
+
+---
 
 ### Level 3
 
@@ -41,6 +51,7 @@ A good, simple way to understand how archetypal criticism works is to see meanin
 
 Great literature works at all three levels together. This is why it feels local and universal: it grows in one culture but speaks to many cultures and times. The archetype gives it depth; the myth gives it cultural meaning; the literary work gives both their clearest and lasting artistic form.
 
+---
 # Some of the famous Jungian archetypes
 
 ## *The Persona*
@@ -62,6 +73,8 @@ This archetype is always the one who represents knowledge, spiritual guidance, a
 ## *Other archetypes*
 
 *Anima and Animus* are the archetypes that represent polar opposites and their union, like Yin and Yang, Shiva and Shakti, the concept of Miri and Piri, etc. *The Great Mother* archetype embodies the selfless mother archetype that represents nourishment, nurturing, protection and fertility, like Parvati, Mother Mary/Mariam, Isis, etc. The *Forbidden Knowledge Seeker* archetype includes examples like Odin from Norse mythology, who endures a sacrifice to obtain knowledge from the runes; Prometheus obtaining the Divine Fire in Greek mythology; Adam and Eve eating from the Tree of the Knowledge of Good and Evil in Biblical traditions; Icarus who pursues flight beyond the limits imposed by his circumstances, etc.
+
+---
 
 ## Frye’s claim
 
@@ -89,7 +102,10 @@ Autumn is the season of decline; light shortening, decreasing temperature and ap
 
 Winter is the season of darkness, cold and inevitable death - the season in which life withdraws. In its narrative mode, heroism is impossible, benevolent action is thwarted, exposing the structures of the comic and the romantic as illusions. In literature, Saadat Hasan Manto’s stories about the partition of Punjab operate within the winter mythos. In pop culture, the movie The Dark Cauldron also operates within the winter mythos because of its dark ambience and representation of destructive power. Where the ironic element occurs when the protagonist Taran dreams of becoming a great hero, has to initially endure being an inexperienced assistant pig-keeper. Its satirical element is when the antagonist, the Horned King’s desire for wanton power and destruction are not achieved and this can be read as criticism of tyrannical rulers in the read world.
 
+---
+
 ## Archetypal approach in Indian scriptures
 
 Archetypal criticism applies beyond Western literature; Indian traditions show the same patterns, shaped by rasa, dharma and karma. The Ramayana is a romance (exile, allies, trials, victory restoring order), but Rama’s dharmic burden, especially his treatment of Sita and Shambuka in the Uttara Kanda, adds tragic weight. The Mahabharata is chiefly a tragedy centred on the Kurukshetra war, yet it also includes comic, romantic, and ironic elements, engaging all of Frye’s mythoi. The Bhagavad Gita moves past Arjuna’s tragic paralysis through nishkama karma (action without attachment to results), which has no exact Western equivalent. Bhakti poetry, including Radha-Krishna verse and Mirabai’s bhajans, expresses divine love as unending “productive longing” rather than Western-style union. Tagore’s *Gitanjali* reaches global audiences by tapping an archetype beneath cultural differences.
 
+---
