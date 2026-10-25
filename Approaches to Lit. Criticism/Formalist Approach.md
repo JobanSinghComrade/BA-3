@@ -88,3 +88,28 @@ A symbol is what an image acquires as more meaning is added to it aside from its
 Point of view, in narrative fiction, refers to the vantage point from which the story is told.
 
 ---
+
+## Wimsatt and Beardsley’s argument of author’s intention being neither available nor desirable 
+
+Critics *W.K. Wimsatt* and *Monroe Beardsley* published the essay 'The Intentional Fallacy' proposed something that can be stated in one sentence: the design or intention of the author is neither available nor desirable as a standard of interpreting or judging a literary work. This means that the author’s intentions are neither ever-present due to inevitable mortality and nor desirable due to the possibility that whatever the author intended to convey may not always hit the mark regardless of it being that way knowingly or unknowingly.
+
+---
+
+## The 3 types of evidences 
+
+
+*Internal Evidence*
+
+Internal evidence refers to the elements found within a literary text that help us understand its meaning. In Formalist Criticism, critics focus only on the text itself rather than the author’s life, historical background, or social conditions. Internal evidence includes plot, characters, themes, imagery, symbols, language, tone, and figures of speech. These elements are studied to understand how the text creates meaning and artistic effect. For example, repeated images of darkness may suggest sadness or fear. Thus, Formalist Criticism uses internal evidence to analyse the structure, style, and meaning of a literary work objectively.
+
+
+*The Poem as Public Property*
+
+In Formalist Criticism, a poem is considered public property because its meaning is found in the text itself, not in the poet’s personal life or feelings. Once a poem is published, readers can study and interpret it by examining its words, images, symbols, structure, rhythm, and figures of speech. Formalists believe that the poem should be treated as an independent work of art. The poet’s intentions and personal experiences are not necessary to understand it. Every reader can analyse the poem through its textual elements. Thus, the poem belongs to the public, who can interpret it through close reading.
+
+
+*The Affective Fallacy*
+
+The Affective Fallacy is a concept in Formalist Criticism introduced by W. K. Wimsatt and Monroe Beardsley. It refers to the mistake of judging a literary work by its emotional effects on readers rather than by its own textual features. According to Formalist Criticism, a poem should be analysed through its language, structure, imagery, rhythm, and symbolism. The reader’s personal feelings or reactions should not determine its meaning or value. For example, a poem should not be considered excellent merely because it makes someone feel happy or sad. Instead, its literary qualities should form the basis of critical judgement.
+
+
