@@ -1,3 +1,4 @@
+<iframe width="100%" style="aspect-ratio:16/9;"  src="https://www.youtube.com/embed/DVFB1e5tXmA?si=z2C2pOBhLIsqZQut" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # Myth and Archetype
 
 A myth is an important old story, a traditional narrative or legend that repeats itself throughout a culture. A culture uses it to understand life’s complications/complexities. It does not mean a false story, as the word is used colloquially/informally to dismiss the validity of something.
@@ -10,6 +11,7 @@ But not all stories are the same. The Matrix by Wachaoskis and the story of Jesu
 
 ---
 
+<iframe width="100%" style="aspect-ratio:19/6;" src="https://www.youtube.com/embed/XKn0bSfTnbU?si=zP-aznrGaJ6DaT8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 # Jung and Frye’s explanations of the Myth and the Archetype
 
 *Jung* and *Frye* ask different questions about archetypes.
@@ -54,6 +56,9 @@ Great literature works at all three levels together. This is why it feels local 
 ---
 # Some of the famous Jungian archetypes
 
+<iframe width="100%" style="aspect-ratio:19/6;" src="https://www.youtube.com/embed/jzoRC9SHCAI?si=MyDajLXOpKPw8Lro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" style="aspect-ratio:19/6;" src="https://www.youtube.com/embed/MKR3EcLg-L0?si=salEB27oGnb30Jzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## *The Persona*
 
 This archetype, similar to Freudian concept of the ego, is the social mask of one’s construct that they maintain to showcase to the world to dignify the society’s requirements of social sophistication. Jung says that without the *persona*, existing in a community would be nearly impossible and that the danger also comes from identifying with the social mask so much that an individual also loses touch with their authentic inner self. A good example of this is Bruce Wayne from The Dark Knight, whose social mask is his public name, Bruce Wayne, the billionaire orphan, but his true self is the Batman, a masked vigilante that was born the day he witnessed his parents dying at the hands of a criminal as an 8-year-old.
@@ -81,6 +86,8 @@ This archetype is always the one who represents knowledge, spiritual guidance, a
 Frye wrote an essay in 1951 called “The Archetypes of Literature,” which was a catalyst for an entire work of literary criticism called the Anatomy of Criticism(1957). Frye, comparing literature with the disciplined structuralism of biology in the natural sciences, believed that literature needed the same disciplined structuralism. His proposal was that the concepts of myth and archetype could provide this framework.
 
 One of Frye’s most distinctive claims was that literature was its own *self-contained verbal universe* — an entity with its own laws, a construct of human imagination with its own internal logic, recurring structures, and so on. The claims almost personify literature, positioning Frye between Formalist critics and Historical critics. According to him, what differentiated archetypal criticism was that, instead of focusing on individual texts, it focused on the entire literary traditions and patterns governed by a broader picture.
+
+<iframe width="100%" style="aspect-ratio:19/6;" src="https://www.youtube.com/embed/YD1J2v8NPOE?si=Qfdyu3_Sq7L7p4Cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The 4 Mythos 
 
