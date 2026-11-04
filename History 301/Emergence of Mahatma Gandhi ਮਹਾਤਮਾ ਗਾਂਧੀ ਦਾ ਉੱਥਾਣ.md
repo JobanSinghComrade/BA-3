@@ -1,7 +1,7 @@
 
 
 - - -
-## Q1. ਮਹਾਤਮਾ ਗਾਂਧੀ ਜੀ ਦੀ ਮੁੱਢਲੀ ਜ਼ਿੰਦਗੀ ਯਾਤਰਾ ਦਾ ਸੰਖੇਪ ਵਰਨਣ ਕਰੋ।(Describe in brief the early career of Mahatma Gandhi Ji.)
+# Q1. ਮਹਾਤਮਾ ਗਾਂਧੀ ਜੀ ਦੀ ਮੁੱਢਲੀ ਜ਼ਿੰਦਗੀ ਯਾਤਰਾ ਦਾ ਸੰਖੇਪ ਵਰਨਣ ਕਰੋ।(Describe in brief the early career of Mahatma Gandhi Ji.)
 
 
 #### 1. ਜਨਮ ਤੇ ਸਿੱਖਿਆ (Birth and Education)
